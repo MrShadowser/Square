@@ -154,4 +154,5 @@ val AppLanguages: List<Pair<String, String>> = listOf(
     "ko" to "한국어",
     "ja" to "日本語",
     "vi" to "Tiếng Việt",
+    "uk" to "Українська",
 )
